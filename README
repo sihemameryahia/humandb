@@ -1,0 +1,12 @@
+HumanDB
+
+HumanDB is an AI-powered database that manages human factors and provides adaptive services such as upskilling and social signaling, while ensuring fair treatment.
+
+It's the punch line in a keynote presentation by Sihem Amer-Yahia at VLDB 2022:
+https://vldb.org/2022/?program-schedule-keynote-speakers
+
+AI-Powered Data-Driven Education
+
+Educational platforms are increasingly becoming AI-driven. Besides providing a wide range of course filtering options, personalized recommendations of learning material and teachers are driving today's research. While accuracy plays a major role in evaluating those recommendations, many factors must be considered including learner retention, throughput, upskilling ability, equality of learning opportunities, and satisfaction. This creates a tension between learner-centered and platform-centered approaches. I will describe research at the intersection of data-driven recommendations and education theory. This includes multi-objective algorithms that leverage collaboration and affinity in peer learning, studying the impact of learning strategies on platforms and people, and automating the generation of sequences of courses. I will end the talk with a discussion of the central role data management systems could play in enabling holistic educational experiences. 
+
+Slides from the presentation.
